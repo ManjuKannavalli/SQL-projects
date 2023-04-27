@@ -4,6 +4,7 @@ This project is designed to analyze and visualize data from the World Bank's Int
 
 # Getting Started
 To get started with this project, you will need to have a working knowledge of SQL and the ability to write queries. You will also need access to the World Bank's International Debt Statistics database. The data can be downloaded from the World Bank's website here.
+(https://datacatalog.worldbank.org/dataset/international-debt-statistics)
 
 # Project Structure
 The project contains the following files:
